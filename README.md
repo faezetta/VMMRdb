@@ -14,7 +14,7 @@ Each image is labeled with the corresponding make, model and production year of 
 ## Citation
 If you use this dataset, please cite the following paper:
 ```
-<b>A Large and Diverse Dataset for Improved Vehicle Make and Model Recognition</b>
+A Large and Diverse Dataset for Improved Vehicle Make and Model Recognition
 F. Tafazzoli, K. Nishiyama and H. Frigui
 In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2017. 
 ```
