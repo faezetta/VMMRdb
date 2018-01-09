@@ -11,6 +11,8 @@ VMMRdb can be downloaded [here](http://vmmrdb.cecsresearch.org/).
 
 Each image is labeled with the corresponding make, model and production year of the vehicle.
 
+Some models referenced in our paper on VMMRdb-3036: [Resnet-50](http://vmmrdb.cecsresearch.org/models/resnet-50.t7) , [VGG](http://vmmrdb.cecsresearch.org/models/vgg.t7) , [index to class name](http://vmmrdb.cecsresearch.org/models/index_class.t7) 
+
 ## Citation
 If you use this dataset, please cite the following paper:
 ```
