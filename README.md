@@ -1,3 +1,5 @@
+This is an overview of the VMMR dataset introduced in "A Large and Diverse Dataset for Improved Vehicle Make and Model Recognition".
+
 ## Overview
 Despite the ongoing research and practical interests, car make and model analysis only attracts few attentions in the computer vision community. We believe the lack of high quality datasets greatly limits the exploration of the community in this domain. To this end, we collected and organized a large-scale and comprehensive image database called VMMRdb, where each image is labeled with the corresponding make, model and production year of the vehicle.	
 
