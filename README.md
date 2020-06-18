@@ -12,6 +12,7 @@ The Vehicle Make and Model Recognition dataset (VMMRdb) is large in scale and di
 
 ## Download
 VMMRdb can be downloaded [here](http://vmmrdb.cecsresearch.org/).
+Or alternatively at: [VMMRdb.zip](https://www.dropbox.com/s/uwa7c5uz7cac7cw/VMMRdb.zip?dl=0)
 
 Each image is labeled with the corresponding make, model and production year of the vehicle.
 
