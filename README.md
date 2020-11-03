@@ -12,12 +12,11 @@ The Vehicle Make and Model Recognition dataset (VMMRdb) is large in scale and di
 <p align="center"><sub>The distribution of images in different classes of the dataset. Each circle is associated with a class, and its size represents the number of images in the class. The classes with labels are the ones including more than 100 images.</sub></p>
 
 ## Download
-VMMRdb can be downloaded [here](http://vmmrdb.cecsresearch.org/).
-Or directly at: [VMMRdb.zip](https://www.dropbox.com/s/uwa7c5uz7cac7cw/VMMRdb.zip?dl=0)
+VMMRdb can be downloaded [here](https://www.dropbox.com/s/uwa7c5uz7cac7cw/VMMRdb.zip?dl=0).
 
 Each image is labeled with the corresponding make, model and production year of the vehicle.
 
-Some models referenced in our paper on VMMRdb-3036: [Resnet-50](http://vmmrdb.cecsresearch.org/models/resnet-50.t7) , [VGG](http://vmmrdb.cecsresearch.org/models/vgg.t7) , [index to class name](http://vmmrdb.cecsresearch.org/models/index_class.t7) 
+Some models referenced in our paper on VMMRdb-3036: [Resnet-50](https://www.dropbox.com/s/vt4svttnpshyovv/resnet-50.t7?dl=0) , [VGG](https://www.dropbox.com/s/l38ik039s5rm0w5/vgg.t7?dl=0) 
 
 ## Citation
 If you use this dataset, please cite the following paper:
