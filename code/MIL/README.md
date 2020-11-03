@@ -5,3 +5,9 @@ Instead of feeding the training image into the network and following the global 
 CNN loss function is formulated for MIL as below:<br/>
 <p align="center"><img align="center" src="https://github.com/faezetta/VMMRdb/blob/master/meta/mil_loss.png" alt="CNN loss function" width="200px">
 <img align="center" src="https://github.com/faezetta/VMMRdb/blob/master/meta/mil_crossentropy.png" alt="MI-CNN loss function" width="200px">
+
+The code is based on [`fb.resnet.torch`](https://github.com/facebookarchive/fb.resnet.torch) with modification required for MIL. 
+
+```
+OMP_NUM_THREADS=1 th main.lua -data DATA_DIR -nThreads 8 -nClasses 3036 -save CHECKPOINT_DIR  -nEpochs 200 -batchSize 1 -LR 0.0001 -netType resnet_pre2 | tee log_VMMRdb_MIL_Resnet.txt
+```
