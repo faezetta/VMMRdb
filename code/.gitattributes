@@ -1,0 +1,2 @@
+*.m linguist-detectable=false
+*.lua linguist-detectable=true
